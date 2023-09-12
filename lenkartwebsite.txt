@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>website</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="lens.css">
+</head>
+
+    <nav class="fnav">
+        <img src="main_logo.svg" alt="">
+        <img src="phone_number.svg" alt="">
+        <input type="text" placeholder="What are you looking for">
+        <p>Track Order</p>
+        <p>Sign In & Sign Up</p>
+        <p>Wishlist</p>
+        <p>Cart</p> 
+    </nav>
+ <nav class="snav">
+    <p>EYEGLASSES</p>
+    <p>COMPUTER GLASSES</p>
+    <p>KID GLASSES</p>
+    <p>CONTACT LENSES</p>
+     <p>SUNGLASSES</p>
+     <p>HOME EYE-TEST</p>
+     <p>STORE LOCATOR</p>
+     <img src="3dtryon1.webp" alt="">
+</nav>
+<div class="lens">
+    <img src="a2.webp" alt="">
+    <img src="b2.webp" alt="">
+    
+    <img src="prog11.webp" alt="">
+  
+</div>
+<div class="main">
+    <img src="Refresh-Banner-Web.webp" alt="">
+</div>
+
+<div class="cart">
+
+
+    <div class="card">
+     <img src="image179.webp" alt="">
+     <p>Rounded</p>
+     <button>EXPOLORE</button>
+    </div>
+     
+
+    <div class="card">
+        <img src="cateeye.webp" alt="">
+        <p>Rounded</p>
+        <button>EXPOLORE</button>
+       </div>
+
+
+       <div class="card">
+        <img src="image179.webp" alt="">
+        <p>Rounded</p>
+        <button>EXPOLORE</button>
+       </div>
+
+       <div class="card">
+        <img src="cateeye.webp" alt="">
+        <p>Rounded</p>
+        <button>EXPOLORE</button>
+       </div>
+    </div>
+        <div class="banner">
+        <h2>As At New York Fashion Week</h2>
+        <div class="img">
+            <img src="web banner.webp" alt="">
+        </div>
+       </div>
+       
+    </div>
+   
+
+       <div class="banner">
+        <h2>FIND THE PERFECT FIT</h2>
+        <div class="t-img">
+            <img src="ce-square.webp" alt="">
+            <img src="Banner03_TileDesktop.webp" alt="">
+       </div>
+       </div>
+
+       <div class="banner">
+        <h2>INTRODUCING OJOS WEAR - SUBSCRIBE & SAVE</h2>
+        <div class="img">
+            <img src="ojos-web.webp" alt="">
+        </div>
+       </div>
+ 
+
+       <div class="banner">
+        <h2>OUR BRANDS</h2>
+        <div class="img">
+            <img src="VC-Banner.webp" alt="">
+        </div>
+       </div>
+
+       <div class="google">
+        <img src="john-jacobs-jj-e11675-c1-eyeglasses_g_1122_2.jpg" alt="">
+        <img src="john.jpg" alt="">
+        <img src="b2.webp" alt="">
+       
+       </div>
+       <div class="banner">
+        <h2>PREMIUM EYEGLASSES - BUY 1 GET 1 + FREE MEMBERSHIP</h2>
+        <div class="img">
+            <img src="web banner.webp" alt="">
+        </div>
+       </div>
+       
+
+       <div class="condent">
+        <img src="john-jacobs-jj-e11675-c1-eyeglasses_g_1122_2.jpg" alt="">
+        <img src="john.jpg" alt="">
+        <img src="a2.webp" alt="">
+       
+   </div>
+</div>
+    <div class="footer">
+        <div class="list">
+            <ul>
+              
+                    <h2>SERVICES</h2><br>
+              
+                <li><a>Store</a></li> <br>
+                 <li><a>Enter My Power</a></li> <br>
+                <li><a>Buying Guide</a></li> <br>
+               <li><a>Frame Size</a></li> 
+                    
+                </li>
+            </ul>
+        </div>
+
+        
+        <div class="list">
+            <ul>
+                
+                    <h2>ABOUT US</h2><br>
+                    <li>  <a>We Are Hiring</a></li><br>
+                        <li> <a>Refer & Earn</a></li><br>
+                            <li>  <a>About Us</a></li><br>
+                                <li> <a>Lenskat Coupons</a></li>
+                
+            </ul>
+        </div>
+        <div class="list">
+            <ul>
+                <li>
+                    <h2>HELP</h2><br>
+                       <li>Payments</li><br>
+                       <li>Shipping</li><br>
+                       <li>cancellation&</li><br>
+                       <li>Returns</li><br>
+                       
+                </li>
+            </ul>
+        </div>
+        <div class="list">
+            <ul>
+                <li>
+                    <h2>FAQ</h2>
+                   
+                </li>
+            </ul>
+        </div>
+        
+        <div class="col">
+            <h3>Newsletter</h3><br>
+            <form>
+            
+                <i class="fa fa-envelope"></i>
+                <input type="Email" placeholder="Enter your email id" required><br><br><br>
+              
+            </form>
+        </div>
+        <div class="list">
+            <ul>
+                <li>
+                    <img src="play-store.svg" alt="">
+                  
+                    <p>Download Lenskart App to Buy<br> Eyeglasses,Sunglasses and Contact Lenses</p><br><br><br><br><br><br><br>
+                    <div class="icon">
+                        <i class="fa fa-facebook"></i>
+                        <i class="fa fa-twitter"></i>
+                        <i class="fa fa-instagram"></i>
+                        <i class="fa fa-youtube-play"></i>
+                        <div class="copyright">
+                            <p>© Copyright 2023, Designed By Bharathi</p>
+                          </div>
+                </div>
+                </li>
+            </ul>
+        </div>
+
+        
+    </div>
+    
+</form>
+</body>
+</html>
